@@ -2,6 +2,12 @@
 
 A demo application to illustrate how [Inertia.js](https://inertiajs.com/) works with [Laravel](https://laravel.com/) and [React](https://reactjs.org/).
 
+## Requirements
+
+```sh
+PHP > 8
+```
+
 ## Installation
 
 Clone the repo locally:
